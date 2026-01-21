@@ -1,4 +1,3 @@
-``` markdown
 # UIDAI Data Hackathon 2026: Strategic Insights for Enhanced Operations, Fraud Detection and Data Driven Decision Making
 
 ## 🎯 Project Overview
@@ -70,5 +69,3 @@ The analysis translates directly into four operational frameworks:
 **Team sumukh**
 
 **Date of Submission:** 20/01/2026
-
-```
